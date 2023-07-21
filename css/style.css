@@ -52,9 +52,7 @@ h3 {
 
 @media only screen and (min-width:1200px)
   {
- .font {
-    padding: 0px 200px 15px 200px;
-        }
+ 
   }
 
 @media(orientation: landscape)
