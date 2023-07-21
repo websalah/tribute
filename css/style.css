@@ -42,4 +42,35 @@ h3 {
 #title {
     font-size: 200%;
 }
+#image {
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+#img-div {
+    background-color: white;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 2px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+#tribute-info {
+	  padding: 10px;
+		text-overflow: clip;
+}
+h3 {
+	  padding: 20px;
+		text-overflow: clip;
+	}
+#main {
+    text-align: center;
+    font-family: monospace;
+    background-color: rgba(236, 234, 234, 0.74);
+    padding: 1%;
+    margin: 1%;
+    border-radius: 5px;
+	}
 }
