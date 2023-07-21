@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+}
+#title {
+    font-size: 400%;
+}
+#image {
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+#img-div {
+    background-color: white;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 2px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+#tribute-info {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    overflow-wrap: break-word;
+}
+#main {
+    text-align: center;
+    font-family: Helvetica;
+    background-color: rgba(236, 234, 234, 0.74);
+    padding: 1%;
+    margin: 1%;
+    border-radius: 5px;
+}
+h3 {
+    opacity: 0.8;
+}
+@media only screen and (min-width:480px)
+  {
+
+  }
+
+@media only screen and (min-width:767px)
+  {
+
+  }
+
+@media only screen and (min-width:991px)
+  {
+
+  }
+
+@media only screen and (min-width:1200px)
+  {
+ .font {
+    padding: 0px 200px 15px 200px;
+        }
+  }
+
+@media(orientation: landscape)
+  {
+
+  }
